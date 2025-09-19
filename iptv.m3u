@@ -1,0 +1,20 @@
+#EXTM3U
+
+# --- Gruppo The Amazing Digital Circus ---
+#EXTINF:-1 tvg-id="tadc_ep1" tvg-name="Ep.1 - Pilot" group-title="The Amazing Digital Circus", Ep.1 - Pilot
+https://www.dropbox.com/s/xxxxxxx/Ep1.mp4?raw=1
+
+#EXTINF:-1 tvg-id="tadc_ep2" tvg-name="Ep.2 - Candy Carrier Chaos" group-title="The Amazing Digital Circus", Ep.2 - Candy Carrier Chaos
+https://www.dropbox.com/s/yyyyyyy/Ep2.mp4?raw=1
+
+#EXTINF:-1 tvg-id="tadc_ep3" tvg-name="Ep.3 - The Mystery Of Mildenhall Manor" group-title="The Amazing Digital Circus", Ep.3 - The Mystery Of Mildenhall Manor
+https://www.dropbox.com/s/zzzzzzz/Ep3.mp4?raw=1
+
+#EXTINF:-1 tvg-id="tadc_ep4" tvg-name="Ep.4 - Fast Food Masquerade" group-title="The Amazing Digital Circus", Ep.4 - Fast Food Masquerade
+https://www.dropbox.com/s/aaaaaaa/Ep4.mp4?raw=1
+
+#EXTINF:-1 tvg-id="tadc_ep5" tvg-name="Ep.5 - Untitled" group-title="The Amazing Digital Circus", Ep.5 - Untitled
+https://www.dropbox.com/s/bbbbbbb/Ep5.mp4?raw=1
+
+#EXTINF:-1 tvg-id="tadc_ep6" tvg-name="Ep.6 - They All Get Guns" group-title="The Amazing Digital Circus", Ep.6 - They All Get Guns
+https://www.dropbox.com/s/ccccccc/Ep6.mp4?raw=1
